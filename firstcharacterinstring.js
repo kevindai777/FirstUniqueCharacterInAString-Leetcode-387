@@ -25,4 +25,5 @@ for (let i = 0; i < string.length; i++) {
     }
 }
 
+//If the unique character doesn't exist, return -1
 return -1
